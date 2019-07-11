@@ -1,4 +1,4 @@
-# Welcome to learning-angular 👋
+# Welcome to Angular todo app 👋
 
 ![Version](https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000)
 
